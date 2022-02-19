@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoodDaughter</string>
+    <string name="app_iv_name0">好阿大</string>
+    <string name="app_iv_name1">好爸爸</string>
+    <string name="app_iv_name2">好男友</string>
+    <string name="app_iv_name3">好老公</string>
+    <string name="app_iv_name4">好闺女</string>
+    <string name="app_iv_name5">好老婆</string>
+    <string name="app_iv_name6">开始</string>
+</resources>
